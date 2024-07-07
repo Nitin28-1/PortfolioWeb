@@ -3,7 +3,7 @@ export const SKILLS=[
 
     {
         title:"Frontend",
-        icon:"../../public/images/frontendbr.png",
+        icon:"https://tinyurl.com/5aka873v",
         skills:[
             {skill:"HTML5",percentage: "85%"},
             {skill:"CSS3",percentage: "90%"},
@@ -13,7 +13,7 @@ export const SKILLS=[
     },
     {
         title:"Backend",
-        icon:"../../public/images/backendbr.png",
+        icon:"https://shorturl.at/tuhkg",
         skills:[
             {skill:"Node.js",percentage: "80%"},
             {skill:"Express.js",percentage: "75%"},
@@ -23,7 +23,7 @@ export const SKILLS=[
     
     {
         title:"Tools",
-        icon: "../../public/images/toolsbr.png",
+        icon: "https://tinyurl.com/mrfbdt84",
         skills:[
             {skill:"Git & GitHub",percentage: "85%"},
             {skill:"Visual Studio Code",percentage: "80%"},
@@ -33,7 +33,7 @@ export const SKILLS=[
     },
     {
         title:"Soft Skills",
-        icon: "../../public/images/softskillbr.png",
+        icon: "https://shorturl.at/AbYZr",
         skills:[
             {skill:"Problem-Solving",percentage: "80%"},
             {skill:"Collaboration",percentage: "85%"},

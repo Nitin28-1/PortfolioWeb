@@ -1,10 +1,6 @@
 import React from 'react'
 import "./Page1.css"
-import react from "../../../public/images/react.png"
-import person from "../../../public/images/page1-1.jpg"
-import js from "../../../public/images/js.webp"
-import c from "../../../public/images/c++.png"
-import tailwind from "../../../public/images/tailwind.png"
+
 
 const Page1 = () => {
   return (
@@ -24,23 +20,23 @@ const Page1 = () => {
           
             <div>
             <div className='tech-icons'>
-              <img src={react} alt="" className='icons'/>
+              <img src={"https://tinyurl.com/kph8pvbw"} alt="" className='icons'/>
             </div>
-             <img src={person} alt="" className='main-character' />
+             <img src={'https://tinyurl.com/3jkyfb5k'} alt="" className='main-character' />
             </div>
 
           <div className='page1-img-second'>
 
              <div className='tech-icons'>
-              <img src={js} alt="" className='icons'/>
+              <img src={'https://tinyurl.com/5e5p9khx'} alt="" className='icons'/>
             </div>
 
             <div className='tech-icons'>
-              <img src={c} alt="" className='icons'/>
+              <img src={'https://tinyurl.com/57h34a9a'} alt="" className='icons'/>
             </div>
 
             <div className='tech-icons'>
-              <img src={tailwind} alt="" className='icons'/>
+              <img src={'https://tinyurl.com/yhddp83m'} alt="" className='icons'/>
             </div>
 
          </div>   

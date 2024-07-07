@@ -11,12 +11,12 @@ const ContactMe = () => {
    <div className="contact-content">
     <div  style={{flex:1}}>
 
-      <ContactnfoCard iconUrl="../../../public/images/email.png"
-      text="nitin@safar.com"/> 
+      <ContactnfoCard iconUrl="https://tinyurl.com/yenf2fc3"
+      text="nitinnegi3112h@safar.com"/> 
 
       <ContactnfoCard 
-      iconUrl="../../../public/images/github.png"
-      text="https://github.com/nitin"/> 
+      iconUrl="https://tinyurl.com/2ntf5v5p"
+      text="https://github.com/Nitin28-1"/> 
 
     </div>
 
